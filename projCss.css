@@ -122,3 +122,9 @@ button:hover {
   background-color: black;
   color: white;
 }
+footer {
+  background-color: #010000;
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+}
